@@ -1,0 +1,26 @@
+h1{
+    width: 138px;
+    height: 118px;
+    font-size: 47px;
+    font-weight: 700;
+}
+.about__main{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 130px;
+}
+.about_prof{
+    max-width: 140px;
+    height: 44px;
+}
+.about_lang span{
+    padding: 2px;
+    cursor: pointer;
+}
+.eng{
+    border-right: 1px solid #000;
+}
+.about_lang span:hover{
+    font-weight: bold;
+}

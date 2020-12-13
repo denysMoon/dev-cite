@@ -1,0 +1,15 @@
+.header{
+    height: 80px;
+    // background-color: aqua;
+    border-bottom: 2px solid #000000;
+}
+.nav{
+    display: flex;
+    justify-content: space-between;
+}
+.nav_item{
+    margin-top: 33px;
+}
+.nav_item:hover{
+    font-weight: bold;
+}
